@@ -36,7 +36,7 @@ Also, the $p_\mathrm{astro}$ probability obtained by the Random Forest ranking-s
 
 # Ok, how can I play with the codes? 
 
-In the folders '/RF-codes' you will find the Jupyter Notebook that will read the data (that are in '/data' subfolder, train the random forest and test the algorithm! Everything is commented an explained.
+In the folders '/RF-codes' you will find the Jupyter Notebook that will read the data (that are in '/data' subfolder - check path when you load them), train the random forest and test the algorithm! Everything is commented an explained.
 Of course you will need the packages of `scikit-learn` to use the Random Forest algorithm as well as basic python packages such as pandas, numpy or matplotlib!
 
 
