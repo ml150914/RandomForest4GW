@@ -29,6 +29,8 @@ The data are obtained by the coincidence triggers of MBTA pipeline, and consists
 Once the algorithm is trained, its efficiency is tested by comparing its score and the usual statistical significance provided by MBTA explotining the [ROC curves](https://en.wikipedia.org/wiki/Receiver_operating_characteristic). 
 Finally, we test the strength of this new statistics $p_\mathrm{s}$ by computing the probability of being an astrophysical signal $p_\mathrm{astro}$. 
 
+If you want to read more about this project, check [the article](https://arxiv.org/abs/2509.12882).
+
 ## Does it work?
 
 The study showed that the Random Forest $p_\mathrm{s}$ statistics is as good as the usual statstical significance used by MBTA, that is quite impressive since obtaining this statistic require a huge effort, while the $p_\mathrm{s}$ is automatically obtained by the algorithm within few seconds!
